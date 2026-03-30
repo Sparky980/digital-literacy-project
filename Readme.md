@@ -77,7 +77,7 @@ Completed a beginner-level challenge on HackerRank using Python. The problem inv
 **Part B — Google Forms Quiz**
 Created a five-question Digital Literacy Awareness Quiz using Google Forms. The quiz includes four multiple choice questions and one short answer question. Responses are recorded automatically in a linked Google Sheet.
 
-Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdzzKCLtPdtcMD-YlbgDAy0hBiQ4y6GiXQg7RL_UVEnrYaLGQ/viewform?usp=publish-editor
+Google Form Link: https://forms.gle/i8aMto7ewSx6qbTW7
 
 Folder: [task-3-platforms/](./task-3-platforms/)
 
